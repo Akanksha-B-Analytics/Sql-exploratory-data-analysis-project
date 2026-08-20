@@ -118,7 +118,7 @@ Through this project, I strengthened my ability to use SQL for real-world busine
 
 ---
 
-Author
 
-Akanksha B
+
+ Hey!! I am Akanksha Borkar
 Aspiring Data Analyst | SQL | Power BI | Data Analytics
